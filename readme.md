@@ -1,3 +1,5 @@
 Integrantes del equipo:
-Nombre: Pepito Codigo: SMSS1234
-Nombre: Juanito Codigo: SMSS18989
+<br>
+
+<b>Nombre: Pepito Codigo: SMSS1234</b>
+<b>Nombre: Juanito Codigo: SMSS18989</b>
